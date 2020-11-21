@@ -3,26 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://noronatest.me/sites/landingpage/</loc>
+    <loc>https://noronatest.me/</loc>
     <lastmod>2020-11-21T16:01:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://noronatest.me/</loc>
+    <loc>https://noronatest.me/sites/landingpage/</loc>
     <lastmod>2020-11-21T16:01:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://noronatest.me/sites/</loc>
-    <lastmod>2020-11-21T16:01:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://noronatest.me/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://noronatest.me/tags/</loc>
   </url>
   
 </urlset>
