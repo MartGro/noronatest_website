@@ -1,8 +1,12 @@
 baseURL = "https://noronatest.me/"
 publishDir = "../"
 
+
+
+
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
+
 
 defaultContentLanguage = "en"
 
@@ -54,3 +58,20 @@ title = "Norona"
 
     [params.meta]
         keywords = "norona, covid, corona, testing"
+
+
+#GDPR Conform -> disable everything
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
