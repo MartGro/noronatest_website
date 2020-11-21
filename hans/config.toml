@@ -1,4 +1,5 @@
-baseURL = "http://noronatest.me/hans/public/"
+baseURL = "http://noronatest.me/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+publishdir = ".."
