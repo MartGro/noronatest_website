@@ -18,9 +18,34 @@ We are making testing visible. For example, I could tell you what our [prototype
 
 Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+{{< contact_formspree id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+
+<!--{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}-->
+<!-- modify this form HTML and place wherever you want your form -->
+{{< rawhtml >}}
+<form
+  action="https://formspree.io/f/myybpqvv"
+  method="POST"
+
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+{{< /rawhtml >}}
+
 
 ---
+
 
 # Prototype
 
