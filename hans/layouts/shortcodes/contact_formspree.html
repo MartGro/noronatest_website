@@ -1,6 +1,6 @@
 <form
-  {{ with .Get "action" }}action="https://formspree.io/f/myybpqvv" method="POST"{{ end }}
-  id="{{ with .Get "id" }}{{ . }}{{ else }}contact-formspree{{ end }}"
+  action="https://formspree.io/f/myybpqvv" 
+  method="POST"
   class="pb-10"
   name="contact"
 >
@@ -12,7 +12,7 @@
         name="name"
         class="appearance-none bg-transparent border-none text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none w-full"
         type="text"
-        placeholder="{{ with .Get "placeholder_name" }}{{ . }}{{ else }}Name{{ end }}"
+        placeholder="Name"
         aria-label="Name"
       />
     </div>
@@ -24,7 +24,7 @@
         type="email"
         class="appearance-none bg-transparent border-none text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none w-full"
         type="text"
-        placeholder="{{ with .Get "placeholder_email" }}{{ . }}{{ else }}Email{{ end }}"
+        placeholder="Email"
         aria-label="Email"
       />
     </div>
@@ -36,7 +36,7 @@
         id="message"
         name="message"
         rows="6"
-        placeholder="{{ with .Get "placeholder_message" }}{{ . }}{{ else }}Message{{ end }}"
+        placeholder="Message"
         class="appearance-none w-full bg-transparent text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
       ></textarea>
     </div>
@@ -46,7 +46,7 @@
       class="button button-primary mx-auto w-full rounded-lg px-4 md:px-5 py-3 md:py-4 bg-teal-500 hover:bg-teal-600 md:text-lg md:leading-tight text-white font-semibold leading-tight shadow-md md:text-center"
       type="submit"
     >
-      {{ with .Get "button_label" }}{{ . }}{{ else }}Send ✉️{{ end }}
+      Send
     </button>
   </div>
 </form>
