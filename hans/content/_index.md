@@ -1,20 +1,28 @@
 ---
-header_brand: "Norona"
+header_brand: "Norona CoViD Testing Badges"
 header_tagline_paragraph: "We are making testing visible"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
 header_button_more:
-  url: "#the-future---today"
+  url: "# Our Product - The NOrona tag!"
   title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+teaser_image: "images/CoroNo5.svg" 
 ---
 
-# The Future - Today!
+# Our Product - The NOrona tag!
 
-We are making testing visible. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+We are making testing visible. Take a look at our [ prototype design](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
 ---
+# Why is testing important?
+We want to push forward to stop the Corona virus by promoting rapid antigen tests both conducted as self-tests or in a centralized way. To effectively fight the epidemic everybody should get tested once a week. This way hotspots and clusters can be detected quickly and quarantine measures can be targeted more effectively.
+Rapid tests are available in increasing numbers from multiple manufacturers. Nevertheless, the application of these tests lags behind.
+Here we see great potential for our product. We want to enable people to make their latest test visible by a wearable NORONA tag. Our idea is that this tag is worn like a name badge, visibly indicating the time passed since the latest testing took place.
+On one hand people can show that they are doing their part in the fight against Corona, on the other hand people know they are safer if many others wear such tags.
+We aim to unify the fragmented market by providing one common indicator for all the different manufacturers of certified tests.
+
+
 
 Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
 
@@ -26,36 +34,24 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 
 ---
+# Prototype design
 
+Our prototype focuses clarity and usuability. There is one big 
 
-# Prototype
-
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
-
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+![Prototype Work](images/CoroNo5.svg) 
 
 Check out this sweet preview. Impressed much, are you?
+
 
 ---
 
 # Imprint & Privacy Policy
 
-Let's keep it simple. This is our contact information:
+This is our contact information:
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
 
 E-mail: jane@doe.net
-Phone: 580-689-0577
 
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
 
----
+We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form this information will be stored on netcup.de, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
 
-# Stay in touch
-
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
-
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
