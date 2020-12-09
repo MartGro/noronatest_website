@@ -1,5 +1,6 @@
 ---
 header_brand: "Norona CoViD Testing Badges"
+teaser_image: "images/norona-logo.png" 
 header_tagline_paragraph: "We are making testing visible"
 header_button_cta:
   url: "#contact-form"
@@ -7,7 +8,7 @@ header_button_cta:
 header_button_more:
   url: "# Our Product - The NOrona tag!"
   title: "Why this is awesome?"
-teaser_image: "images/CoroNo5.svg" 
+
 ---
 
 # Our Product - The NOrona tag!
