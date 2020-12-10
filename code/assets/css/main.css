@@ -31,6 +31,26 @@
   }
 }
 
+@layer components {
+  @font-face {
+    font-family: Futura;
+    font-weight: 400;
+    src: url(/fonts/futura-medium-bt.ttf) format("ttf");
+  }
+  h1 {
+    @apply text-2xl text-gray-dark;
+  }
+  h2 {
+    @apply text-xl text-gray-dark;
+  }
+  h3 {
+    @apply text-gray-dark;
+  }
+  h4 {
+    @apply text-gray-dark;
+  }
+}
+
 /*
 .button-primary {
   background-color: rgb(239, 130, 44);

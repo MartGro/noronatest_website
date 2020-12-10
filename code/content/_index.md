@@ -23,8 +23,8 @@ Damit diese Tests das Virus stoppen können müssen sie aber regelmäßig und fl
 
 # Was bringt das Norona Badge?
 
-Das Norona-Badge macht den Antigen-Test sichtbar, kann nach diesem offen als Nachweis getragen werden und stärkt gleichzeitig das Sicherheitsgefühl. Die Sicherheit steigt ja durch die Tests auch real.
-Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch den Timestrip auch ein eingebautes "Ablaufdatum". Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken der mit der Zeit den weißen Hintergrund verdrängt. So ist man auch angehalten nach einigen Tagen seinen Test zu erneuern.
+Das Norona-Badge macht einen durchgeführten Antigen-Test sichtbar. Es kann nach diesem offen als Nachweis getragen werden und stärkt in der Umgebung gleichzeitig das Sicherheitsgefühl. Die Sicherheit steigt ja durch die Tests auch real.
+Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch den Timestrip auch ein eingebautes "Ablaufdatum". Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken der mit der Zeit den weißen Hintergrund verdrängt. So ist man angehalten, nach einigen Tagen seinen Test zu erneuern.
 
 ---
 
@@ -67,14 +67,24 @@ Es motiviert aber zum regelmäßigen Testen und kann so Ausbreitungen frühzeiti
 
 Da unser Geschäft gerade im Aufbau ist müssen Sie mit einer Lieferzeit von 3-4 Wochen rechnen, bei großen Stückzahlen auch mehr. Allerdings freuen wir uns auf Ihre Anfrage und können durch Ihr Feedback den Prozess wohl zukünftig auch beschleunigen.
 
+#### Was bei einem positiven Test?
+
+Bei den meisten Corona-Schnelltests bedeutet ein positives Ergebnis auch eine tatsächliche Infektion. Dies bedeutet für die/den Betroffene/n in der Regel eine Quarantänepflicht. Wir verweisen hier auf die geltende Gesetzgebung, empfehlen aber nachdrücklich die umgehende, vollständige Quarantäne bis zu einem negativen PCR-Test. Das Badge darf in Falle eines positiven Tests also nicht getragen werden!
+
+### Missbrauch des Norona-Badges
+
+Auch wenn ein Norona-Badge im Falle eines positiven Tests nicht getragen werden sollte, ist ein solches Fehlverhalten nicht ohne weiteres zu verhindern. Der Missbrauch und die damit einhergehende Gefährdung der Umgebung liegt aber in der
+Verantwortung der getesteten Person.
+Ein Bruch der Quarantänebestimmungen führt in der Regel auch zu strafrechtlichen Konsequenzen.
+
 ---
 
-# Imprint & Privacy Policy
+# Impressum & Datenschutz
 
 This is our contact information:
 Das sind unsere Kontaktdaten:
 
-E-mail: jane@doe.net
+E-mail: contact@noronatest.me
 
 Wir nehmen den Schutz Ihrer Daten sehr ernst, wir speichern nichts was wir nicht essentiell benötigen. Wir haben keine Tracking-Dienste aktiviert, verwenden keine Cookies oder ähnliches.
 Falls Sie uns Ihre Kontakt-Daten schiken werden diese bei unserem Hosting-Partner netcup.de gespeichert. Sie können uns jederzeit kontaktieren, falls Sie Ihre Daten bei uns löschen wollen oder eine Auskunft über Ihre Daten bei uns anfordern wollen.
