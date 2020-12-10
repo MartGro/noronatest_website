@@ -75,7 +75,7 @@ Für die Durchführung der Tests selbst müssen Sie sich (noch) an medizinisches
 
 #### Ich bin ein Hersteller/Distributor von Antigen-Schnelltests. Kann ich Ihre Badges in mein Produkt integrieren?
 
-Ja, auf jeden Fall! Bitte (kontaktieren)[#kontaktformular] Sie uns!
+Ja, auf jeden Fall! Bitte [kontaktieren](#kontaktformular) Sie uns!
 
 #### Sind Antigen-Schnelltests nicht ungenau?
 
