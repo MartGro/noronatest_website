@@ -18,6 +18,8 @@ Wir machen Corona-Tests sichtbar. Sehen Sie sich unseren [Prototyp](#design) an 
 
 # Was ist unser Ziel?
 
+
+{{% fontawesome activity %}}
 Wir wollen das Corona-Virus in seiner Ausbreitung stoppen. Neben einer Impfung bieten auch Antigen-Schnelltests einen Angriffspunkt. Ansteckungen werden schnell erkannt und führen nicht zu ein weiteren Verbreitung.
 Damit diese Tests das Virus stoppen können müssen sie aber regelmäßig und flächendeckend angewandt werden. Idealerweise könnte man sich, geschult durch Online-Videos, selbst Testen, alternativ müssen noch erweiterte Testzentren aufgebaut werden. Aber auch in Behörden und Unternehmen können Schnelltests ein bestehendes Hygienekonzept aufwerten und einer größere Ansteckungswelle vermeiden.
 
@@ -46,21 +48,22 @@ Was denken Sie? Schicken Sie uns Ihr Feedback!
 
 # Häufige Fragen
 
-#### Ich würde gerne Norona Badges bestellen, hätte aber gerne ein anderes Design.
+#### Gibt es die Norona Badges auch in einem anderen Design?
 
-Wir können unser Design gerne auch an Ihre Wünsche anpassen, zum Beispiel mit der Integration eines Firmenlogos. Allerdings sollte das Design übergreifend den Wiedererkennungswert beibehalten.
+Wir können unser Design gerne auch an Ihre Wünsche anpassen, zum Beispiel mit der Integration eines Firmenlogos. Dabei ist es wichtig, dass ein Widererkennungswert als Noronabadge bleibt.
 
-#### Ich will in meinem Betrieb / meiner Behörde auch Corona-Schnelltests durchführen. Können Sie mich unterstützen?
+#### Ich will in meinem Betrieb / meiner Behörde auch Corona-Schnelltests durchführen. Wie kann ich weiter vorgehen?
 
-Wir bieten keine Schnelltestungen oder Schnelltest-Kits an sich an. Allerdings können Sie unsere Norona Badges als Zusatz erwerben, vorausgesetzt sie können eine entsprechende Anzahl an Tests / Testbestellungen nachweisen.
+Für die Durchführung der Tests selbst müssen Sie sich an 
 
 #### Ich bin ein Hersteller/Distributor von Antigen-Schnelltests. Kann ich Ihre Badges in mein Produkt integrieren?
 
 Ja! Bitte schreiben Sie uns an!
 
-#### Antigen-Schnelltests sind ungenau.
+#### Sind Antigen-Schnelltests nicht ungenau?
 
-Ja, aber. Auch wenn Antigen-Schnelltests eine geringere Sensitivität als PCR-Tests aufweisen, liegt diese in der Regel doch über 90 \%. (Zulassungskriterien der Bundesbehörden) Bei einer ansteckenden Erkrankung ist sie wohl noch deutlich höher. Unser Badge ist kein! Freibrief, alle sonstigen Corona-Regeln zu missachten.
+Es stimmt, dass Antigen-Schnelltests eine geringere Sensitivität als PCR-Tests aufweisen. Die untere Grenze für die Zulassung liegt in Deutschland bei 80 \%, allerdings erreichen die meisten Tests 97 /% und mehr. Der Test weißt direkt Virus-typische Strukturen nach. Deswegen ist erkennt er erkrankte mit hoher Viruslast besser. Damit gelingt es hoch ansteckende Personen schnell zu erkennen. Je früher man weiß, dass man ansteckend ist, desto weniger 
+Unser Badge ist kein Freibrief, alle sonstigen Corona-Regeln zu missachten.
 Es motiviert aber zum regelmäßigen Testen und kann so Ausbreitungen frühzeitig verhindern. Damit stärkt es neben dem Sicherheitsgefühl auch die tatsächliche Sicherheit.
 
 #### Wie schnell kann ich Norona-Badges bekommen?
