@@ -24,7 +24,7 @@ Damit diese Tests das Virus stoppen können müssen sie aber regelmäßig und fl
 # Was bringt das Norona Badge?
 
 Das Norona-Badge macht einen durchgeführten Antigen-Test sichtbar. Es kann nach diesem offen als Nachweis getragen werden und stärkt in der Umgebung gleichzeitig das Sicherheitsgefühl. Die Sicherheit steigt ja durch die Tests auch real.
-Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch den Timestrip auch ein eingebautes "Ablaufdatum". Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken der mit der Zeit den weißen Hintergrund verdrängt. So ist man angehalten, nach einigen Tagen seinen Test zu erneuern.
+Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch einen Zeitindikator auch ein eingebautes "Ablaufdatum". Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken der mit der Zeit den weißen Hintergrund verdrängt. So ist man angehalten, nach einigen Tagen seinen Test zu erneuern.
 
 ---
 
