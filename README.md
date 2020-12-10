@@ -5,7 +5,6 @@ To install/test do the following:
 1. Init submodules
 ```
 git submodule init code/themes/hugo-product-launch
-git submodule init code/themes/ananke
 ```
 
 2. Install node modules
@@ -19,6 +18,8 @@ After editing your tailwind.config.js or other style related objects, also postc
 ```
 npm run test
 npm run format
+hugo --gc
+hugo -D
 ```
 
 Have fun!

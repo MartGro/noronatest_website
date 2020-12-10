@@ -1,6 +1,0 @@
-<span class="inline-svg" >
-{{- $fname:=print "static/feather/" ( .Get 0 ) ".svg" -}}
-{{- $path:="<path" -}}
-{{- $fill:="<path fill=\"red\"" -}}
-{{ replace (readFile $fname) $path $fill | safeHTML }}
-</span>

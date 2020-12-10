@@ -17,6 +17,10 @@
     font-weight: 400;
     src: url(/fonts/futura-medium-bt.ttf) format("ttf");
   }
+  .prose img {
+    margin-top: 0em;
+    margin-bottom: 0em;
+  }
   h1 {
     @apply text-2xl text-gray-dark;
   }
@@ -36,6 +40,10 @@
     font-family: Futura;
     font-weight: 400;
     src: url(/fonts/futura-medium-bt.ttf) format("ttf");
+  }
+  .prose img {
+    margin-top: 0em;
+    margin-bottom: 0em;
   }
   h1 {
     @apply text-2xl text-gray-dark;

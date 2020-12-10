@@ -1,0 +1,7 @@
+<div class="flow-root container py-4">
+  {{- $fname:=print "feather/" ( .Get 0 ) ".svg" -}}
+  <div class="float-left container w-16 h-16 place-self-center">
+    <img src="{{ $fname }}" class="object-contain pr-4 py-0 my-0" />
+  </div>
+  {{ .Inner }}
+</div>
