@@ -68,7 +68,7 @@ Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durc
  Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken, der mit der Zeit den weißen Hintergrund verdrängt. So weiß man, wann man sich erneut testen lassen muss.
 {{</iconizedtext>}}
 {{<iconizedtext mask>}}
-Schnelltests sind eine gute Möglichkeit, die Infektionen zu verringern. Sie sind aber nur eine Maßnahme neben anderen. Deswegen ist es wichtig, Tests in Kombination mit der AHA-Regel anzuwenden: Abstand halten, Hygene beachten, Alltagsmaske tragen.
+Schnelltests sind eine gute Möglichkeit, die Infektionen zu verringern. Sie sind aber nur eine Maßnahme neben anderen. Deswegen ist es wichtig, Tests in Kombination mit der AHA-Regel anzuwenden: Abstand halten, Hygiene beachten, Alltagsmaske tragen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 
