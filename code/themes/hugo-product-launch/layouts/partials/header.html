@@ -1,7 +1,7 @@
 <header id="header">
-  <div id="header-inner-wrapper" class="bg-pastel_green-light pt-24 lg:pt-0">
+  <div id="header-inner-wrapper" class="container bg-pastel_green-light mx-auto pt-24 lg:pt-0">
     <div
-      class="w-full max-w-screen-xl relative mx-auto px-6 pt-16 pb-40 md:pb-24"
+      class="w-full sm:max-w-2xl max-w-3xl object-contain mx-auto pt-16 pb-40 md:pb-24"
     >
       {{ with .Params.teaser_image }}
         {{- partial "header/teaser_image.html" . -}}

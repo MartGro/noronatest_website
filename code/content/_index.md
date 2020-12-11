@@ -12,7 +12,8 @@ header_button_more:
 
 # Unser Produkt - Das Norona-Badge
 
-{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-watermark-lowres.png" class="shadow-2xl bg-pastel_green-light content-center">}}
+{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-watermark-lowres.png" class="content-center">}}
+
 {{<iconizedtextcontainer>}}
 {{<iconizedtext user-check>}}
 Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Es läuft in sieben Tagen nach der Aktivierung ab.
@@ -21,7 +22,7 @@ Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ ge
 Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
 {{</iconizedtext>}}
 {{<iconizedtext share-2>}}
-Gemeinsam gegen das Virus: Wer sich selbst testen lässt kann dadurch andere schützen.
+Gemeinsam gegen das Virus: Wer sich selbst testen lässt, kann dadurch andere schützen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 Wie gefällt es Ihnen? Schicken Sie uns Ihr [Feedback](#kontaktformular)!
