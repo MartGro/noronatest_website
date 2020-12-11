@@ -12,7 +12,8 @@ header_button_more:
 
 # Unser Produkt - Das Norona-Badge
 
-{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-watermark-lowres.png" class="shadow-2xl bg-green-light content-center">}}
+{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-watermark-lowres.png" class="content-center">}}
+
 {{<iconizedtextcontainer>}}
 {{<iconizedtext user-check>}}
 Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Es läuft in sieben Tagen nach der Aktivierung ab.
@@ -21,11 +22,10 @@ Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ ge
 Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
 {{</iconizedtext>}}
 {{<iconizedtext share-2>}}
-Gemeinsam gegen das Virus: Wer sich selbst testen lässt kann dadurch andere schützen.
+Gemeinsam gegen das Virus: Wer sich selbst testen lässt, kann dadurch andere schützen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 Wie gefällt es Ihnen? Schicken Sie uns Ihr [Feedback](#kontaktformular)!
-
 
 ---
 
@@ -60,18 +60,17 @@ Das Norona-Badge macht einen durchgeführten Antigen-Test sichtbar. Es kann nach
 {{</iconizedtext>}}
 {{<iconizedtext shield>}}
 Es ist wichtig, früh zu wissen, dass man ansteckend ist. So kann man nahestehende Personen warnen und Kontakt vermeiden.
- {{</iconizedtext>}}
- {{<iconizedtext clock>}}
+{{</iconizedtext>}}
+{{<iconizedtext clock>}}
 Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch einen Zeitindikator auch ein eingebautes "Ablaufdatum".
 {{</iconizedtext>}}
 {{<iconizedtext repeat>}}
- Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken, der mit der Zeit den weißen Hintergrund verdrängt. So weiß man, wann man sich erneut testen lassen muss.
+Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken, der mit der Zeit den weißen Hintergrund verdrängt. So weiß man, wann man sich erneut testen lassen muss.
 {{</iconizedtext>}}
 {{<iconizedtext mask>}}
 Schnelltests sind eine gute Möglichkeit, die Infektionen zu verringern. Sie sind aber nur eine Maßnahme neben anderen. Deswegen ist es wichtig, Tests in Kombination mit der AHA-Regel anzuwenden: Abstand halten, Hygiene beachten, Alltagsmaske tragen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
-
 
 ---
 

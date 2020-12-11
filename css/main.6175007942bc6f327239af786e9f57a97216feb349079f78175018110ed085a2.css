@@ -83,11 +83,6 @@ a {
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
 
-
-strong {
-  font-weight: bolder;
-}
-
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
@@ -258,7 +253,10 @@ textarea {
 
 
 h1,
+h3,
+h4,
 hr,
+figure,
 p {
   margin: 0;
 }
@@ -326,7 +324,7 @@ html {
   box-sizing: border-box; /* 1 */
   border-width: 0; /* 2 */
   border-style: solid; /* 2 */
-  border-color: #e2e8f0; /* 2 */
+  border-color: currentColor; /* 2 */
 }
 
 /*
@@ -372,7 +370,9 @@ button {
   cursor: pointer;
 }
 
-h1 {
+h1,
+h3,
+h4 {
   font-size: inherit;
   font-weight: inherit;
 }
@@ -435,7 +435,68 @@ img {
   height: auto;
 }
 
+@font-face {
+  font-family: Futura;
+
+  font-weight: 400;
+
+  src: url(/fonts/futura-medium-bt.ttf) format("ttf");
+}
+
+.prose img {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+h1 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  --text-opacity: 1;
+  color: #282828;
+  color: rgba(40, 40, 40, var(--text-opacity));
+}
+
+h3 {
+  --text-opacity: 1;
+  color: #282828;
+  color: rgba(40, 40, 40, var(--text-opacity));
+}
+
+h4 {
+  --text-opacity: 1;
+  color: #282828;
+  color: rgba(40, 40, 40, var(--text-opacity));
+}
+
 /* Tailwind component classes registered by plugins*/
+
+.container {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
 
 .prose {
   color: #4a5568;
@@ -445,11 +506,6 @@ img {
 .prose a {
   color: #1a202c;
   text-decoration: underline;
-}
-
-.prose strong {
-  color: #1a202c;
-  font-weight: 600;
 }
 
 .prose hr {
@@ -468,6 +524,23 @@ img {
   line-height: 1.1111111;
 }
 
+.prose h3 {
+  color: #1a202c;
+  font-weight: 600;
+  font-size: 1.25em;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+  line-height: 1.6;
+}
+
+.prose h4 {
+  color: #1a202c;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.5;
+}
+
 .prose {
   font-size: 1rem;
   line-height: 1.75;
@@ -483,7 +556,25 @@ img {
   margin-bottom: 2em;
 }
 
+.prose figure {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.prose figure > * {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .prose hr + * {
+  margin-top: 0;
+}
+
+.prose h3 + * {
+  margin-top: 0;
+}
+
+.prose h4 + * {
   margin-top: 0;
 }
 
@@ -495,7 +586,46 @@ img {
   margin-bottom: 0;
 }
 
+@font-face {
+  font-family: Futura;
+
+  font-weight: 400;
+
+  src: url(/fonts/futura-medium-bt.ttf) format("ttf");
+}
+
+.prose img {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+h1 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  --text-opacity: 1;
+  color: #282828;
+  color: rgba(40, 40, 40, var(--text-opacity));
+}
+
+h3 {
+  --text-opacity: 1;
+  color: #282828;
+  color: rgba(40, 40, 40, var(--text-opacity));
+}
+
+h4 {
+  --text-opacity: 1;
+  color: #282828;
+  color: rgba(40, 40, 40, var(--text-opacity));
+}
+
 /* Tailwind's utility classes - generated based on config file */
+
+.space-y-4 > :not(template) ~ :not(template) {
+  --space-y-reverse: 0;
+  margin-top: calc(1rem * calc(1 - var(--space-y-reverse)));
+  margin-bottom: calc(1rem * var(--space-y-reverse));
+}
 
 .appearance-none {
   -webkit-appearance: none;
@@ -503,50 +633,34 @@ img {
           appearance: none;
 }
 
-.bg-transparent {
-  background-color: transparent;
-}
-
-.bg-white {
+.bg-gray-light {
   --bg-opacity: 1;
-  background-color: #fff;
-  background-color: rgba(255, 255, 255, var(--bg-opacity));
+  background-color: #e7e6e6;
+  background-color: rgba(231, 230, 230, var(--bg-opacity));
 }
 
-.bg-gray-100 {
+.bg-green-DEFAULT {
   --bg-opacity: 1;
-  background-color: #f7fafc;
-  background-color: rgba(247, 250, 252, var(--bg-opacity));
+  background-color: #8bd839;
+  background-color: rgba(139, 216, 57, var(--bg-opacity));
 }
 
-.bg-gray-800 {
+.hover\:bg-gray-lighter:hover {
   --bg-opacity: 1;
-  background-color: #2d3748;
-  background-color: rgba(45, 55, 72, var(--bg-opacity));
+  background-color: #f7f6f6;
+  background-color: rgba(247, 246, 246, var(--bg-opacity));
 }
 
-.bg-teal-500 {
+.hover\:bg-green-light:hover {
   --bg-opacity: 1;
-  background-color: #38b2ac;
-  background-color: rgba(56, 178, 172, var(--bg-opacity));
+  background-color: #c2ff86;
+  background-color: rgba(194, 255, 134, var(--bg-opacity));
 }
 
-.hover\:bg-gray-200:hover {
-  --bg-opacity: 1;
-  background-color: #edf2f7;
-  background-color: rgba(237, 242, 247, var(--bg-opacity));
-}
-
-.hover\:bg-teal-600:hover {
-  --bg-opacity: 1;
-  background-color: #319795;
-  background-color: rgba(49, 151, 149, var(--bg-opacity));
-}
-
-.border-teal-500 {
+.border-green-DEFAULT {
   --border-opacity: 1;
-  border-color: #38b2ac;
-  border-color: rgba(56, 178, 172, var(--border-opacity));
+  border-color: #8bd839;
+  border-color: rgba(139, 216, 57, var(--border-opacity));
 }
 
 .rounded-lg {
@@ -565,6 +679,10 @@ img {
   display: flex;
 }
 
+.flow-root {
+  display: flow-root;
+}
+
 .grid {
   display: grid;
 }
@@ -577,6 +695,14 @@ img {
   flex-direction: column;
 }
 
+.place-self-center {
+  place-self: center;
+}
+
+.content-center {
+  align-content: center;
+}
+
 .justify-start {
   justify-content: flex-start;
 }
@@ -585,17 +711,16 @@ img {
   flex-shrink: 0;
 }
 
-.font-medium {
-  font-weight: 500;
+.float-left {
+  float: left;
 }
 
 .font-semibold {
   font-weight: 600;
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
+.h-16 {
+  height: 4rem;
 }
 
 .leading-tight {
@@ -606,9 +731,9 @@ img {
   line-height: 1.625;
 }
 
-.my-5 {
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
+.my-0 {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .mx-auto {
@@ -648,6 +773,11 @@ img {
   min-height: 100vh;
 }
 
+.object-contain {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
@@ -655,6 +785,11 @@ img {
 
 .p-2 {
   padding: 0.5rem;
+}
+
+.py-0 {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .py-1 {
@@ -677,6 +812,11 @@ img {
   padding-bottom: 0.75rem;
 }
 
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -694,6 +834,14 @@ img {
 
 .pt-4 {
   padding-top: 1rem;
+}
+
+.pr-4 {
+  padding-right: 1rem;
+}
+
+.pb-4 {
+  padding-bottom: 1rem;
 }
 
 .pb-6 {
@@ -732,36 +880,24 @@ img {
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
-.shadow-lg {
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+.shadow-2xl {
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 
 .text-left {
   text-align: left;
 }
 
-.text-white {
+.text-gray-DEFAULT {
   --text-opacity: 1;
-  color: #fff;
-  color: rgba(255, 255, 255, var(--text-opacity));
+  color: #585858;
+  color: rgba(88, 88, 88, var(--text-opacity));
 }
 
-.text-gray-600 {
+.text-gray-dark {
   --text-opacity: 1;
-  color: #718096;
-  color: rgba(113, 128, 150, var(--text-opacity));
-}
-
-.text-gray-700 {
-  --text-opacity: 1;
-  color: #4a5568;
-  color: rgba(74, 85, 104, var(--text-opacity));
-}
-
-.text-gray-800 {
-  --text-opacity: 1;
-  color: #2d3748;
-  color: rgba(45, 55, 72, var(--text-opacity));
+  color: #282828;
+  color: rgba(40, 40, 40, var(--text-opacity));
 }
 
 .antialiased {
@@ -769,8 +905,8 @@ img {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.tracking-tight {
-  letter-spacing: -0.025em;
+.w-16 {
+  width: 4rem;
 }
 
 .w-full {
@@ -894,15 +1030,6 @@ img {
     line-height: 1.75rem;
   }
 
-  .sm\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-  }
-
-  .sm\:leading-tight {
-    line-height: 1.25;
-  }
-
   .sm\:leading-relaxed {
     line-height: 1.625;
   }
@@ -927,14 +1054,9 @@ img {
     line-height: 1.75rem;
   }
 
-  .md\:text-xl {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-  }
-
-  .md\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
+  .md\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 
   .md\:leading-tight {
