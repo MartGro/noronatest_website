@@ -15,7 +15,7 @@ header_button_more:
 {{<figure id='prototype' src="images/norona-badge-photo-abmessungen-lowres.png" class="shadow-2xl bg-green-light content-center">}}
 {{<iconizedtextcontainer>}}
 {{<iconizedtext user-check>}}
-Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man __negativ getestet__ wurde. Es läuft in __sieben Tagen__ nach der Aktivierung ab.
+Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Es läuft in sieben Tagen nach der Aktivierung ab.
 {{</iconizedtext>}}
 {{<iconizedtext users>}}
 Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
