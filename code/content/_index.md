@@ -12,7 +12,7 @@ header_button_more:
 
 # Unser Produkt - Das Norona-Badge
 
-{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-lowres.png" class="shadow-2xl bg-green-light content-center">}}
+{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-watermark-lowres.png" class="shadow-2xl bg-green-light content-center">}}
 {{<iconizedtextcontainer>}}
 {{<iconizedtext user-check>}}
 Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Es läuft in sieben Tagen nach der Aktivierung ab.
@@ -130,6 +130,6 @@ Deutschland
 E-mail: kontakt[at]noronatest.me
 
 Wir nehmen den Schutz Ihrer Daten sehr ernst, wir speichern nichts was wir nicht essentiell benötigen. Wir haben keine Tracking-Dienste aktiviert, verwenden keine Cookies oder ähnliches.
-Falls Sie uns Ihre Kontaktdaten schiken werden diese bei unseren Partnern netcup.de und formspree.io gespeichert. Sie können uns jederzeit kontaktieren, falls Sie Ihre Daten bei uns löschen wollen oder eine Auskunft über Ihre Daten bei uns anfordern wollen.
+Falls Sie uns Ihre Kontaktdaten schicken werden diese bei unseren Partnern netcup.de und formspree.io gespeichert. Sie können uns jederzeit kontaktieren, falls Sie Ihre Daten bei uns löschen wollen oder eine Auskunft über Ihre Daten bei uns anfordern wollen.
 
 We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form this information will be stored on netcup.de and formspree.io, services we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
