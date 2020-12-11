@@ -28,6 +28,16 @@ module.exports = {
         DEFAULT: "#ba0505",
         light: "#fa4848",
       },
+      pastel_green: {
+        dark: "#a3ff4d",
+        DEFAULT: "#d7ffb3",
+        light: "#f2ffe6",
+      },
+      white: {
+        dark: "#fffffe6",
+        DEFAULT: "#fffff0",
+        light: "#ffffff",
+      },
     },
   },
   variants: {},
