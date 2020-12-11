@@ -12,14 +12,16 @@ header_button_more:
 
 # Unser Produkt - Das Norona-Badge
 
-{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-lowres.png" class="shadow-2xl bg-gray-dark">}}
-
+{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-lowres.png" class="shadow-2xl bg-green-light content-center">}}
 {{<iconizedtextcontainer>}}
-{{<iconizedtext users>}}
-Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
+{{<iconizedtext user-check>}}
+Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man __negativ getestet__ wurde. Es läuft in __sieben Tagen__ nach der Aktivierung ab.
 {{</iconizedtext>}}
 {{<iconizedtext users>}}
 Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
+{{</iconizedtext>}}
+{{<iconizedtext share-2>}}
+Gemeinsam gegen das Virus: Wer sich selbst testen lässt kann dadurch andere schützen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 Wie gefällt es Ihnen? Schicken Sie uns Ihr [Feedback](#kontaktformular)!
@@ -32,13 +34,19 @@ Wie gefällt es Ihnen? Schicken Sie uns Ihr [Feedback](#kontaktformular)!
 {{<iconizedtextcontainer>}}
 {{<iconizedtext pipette>}}
 
-Wir wollen das Corona-Virus in seiner Ausbreitung stoppen. Neben einer Impfung bieten auch Antigen-Schnelltests einen Angriffspunkt. Ansteckungen werden schnell erkannt und führen nicht zu ein weiteren Verbreitung.
+Wir wollen das Corona-Virus in seiner Ausbreitung stoppen. Antigentests sind sehr gut darin, ansteckende Personen zu erkennen.
+{{</iconizedtext>}}
+{{<iconizedtext chevrons-right>}}
+Bei Schnelltests erhält man das Ergebnis nach 15 Minuten. So kann man sich bei einer Erkrankung frühzeitig isolieren und andere schützen.
 {{</iconizedtext>}}
 {{<iconizedtext loader>}}
-Damit diese Tests das Virus aufhalten können, müssen sie aber regelmäßig und flächendeckend angewandt werden. Idealerweise könnte man sich, geschult durch Online-Videos, selbst Testen.
+Damit diese Tests das Virus aufhalten können, müssen sie aber regelmäßig und flächendeckend angewandt werden. Idealerweise wird man sich in Zukunft selbst testen können.
 {{</iconizedtext>}}
 {{<iconizedtext briefcase>}}
-Aber auch in Behörden und Unternehmen können Schnelltests ein bestehendes Hygienekonzept aufwerten und einer größere Ansteckungswelle vermeiden.
+Besonders in Behörden, Schulen und Unternehmen können Schnelltests ein bestehendes Hygienekonzept aufwerten und einer größere Ansteckungswelle vermeiden.
+{{</iconizedtext>}}
+{{<iconizedtext crosshair>}}
+Wenn man die Ausbreitung des Virus schnell erkennt, können Maßnahmen besser abgestimmt werden.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 
@@ -50,15 +58,17 @@ Aber auch in Behörden und Unternehmen können Schnelltests ein bestehendes Hygi
 {{<iconizedtext eye>}}
 Das Norona-Badge macht einen durchgeführten Antigen-Test sichtbar. Es kann nach diesem offen als Nachweis getragen werden.
 {{</iconizedtext>}}
-{{<iconizedtext smile>}}
- Gleichzeitig stärkt in der Umgebung gleichzeitig das Sicherheitsgefühl. Die Sicherheit steigt ja durch die Tests auch real.
+{{<iconizedtext shield>}}
+Es ist wichtig, früh zu wissen, dass man ansteckend ist. So kann man nahestehende Personen warnen und Kontakt vermeiden.
  {{</iconizedtext>}}
  {{<iconizedtext clock>}}
-
 Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch einen Zeitindikator auch ein eingebautes "Ablaufdatum".
 {{</iconizedtext>}}
 {{<iconizedtext repeat>}}
- Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken, der mit der Zeit den weißen Hintergrund verdrängt. So ist man angehalten, nach einigen Tagen seinen Test zu erneuern.
+ Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken, der mit der Zeit den weißen Hintergrund verdrängt. So weiß man, wann man sich erneut testen lassen muss.
+{{</iconizedtext>}}
+{{<iconizedtext mask>}}
+Schnelltests sind eine gute Möglichkeit, die Infektionen zu verringern. Sie sind aber nur eine Maßnahme neben anderen. Deswegen ist es wichtig, Tests in Kombination mit der AHA-Regel anzuwenden: Abstand halten, Hygene beachten, Alltagsmaske tragen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 
@@ -87,7 +97,7 @@ Ja, auf jeden Fall! Bitte [kontaktieren](#kontaktformular) Sie uns!
 
 #### Sind Antigen-Schnelltests nicht ungenau?
 
-Es stimmt, dass Antigen-Schnelltests eine geringere Sensitivität als PCR-Tests aufweisen. Die untere Grenze für die Zulassung liegt in Deutschland bei 80\%, allerdings erreichen die meisten Tests 97\% und mehr. Der Test weist direkt Virus-typische Strukturen nach. Deswegen erkennt er Erkrankte mit hoher Viruslast noch besser. Damit gelingt es hoch ansteckende Personen schnell zu erkennen. Diese können so schnell in Quarantäne gehen, ohne andere anzustecken.
+Es stimmt, dass Antigen-Schnelltests eine geringere Sensitivität als PCR-Tests aufweisen. Die untere Grenze für die Zulassung liegt in Deutschland bei 80\%, allerdings erreichen die meisten Tests 97\% und mehr. Der Test weist direkt virustypische Strukturen nach. Deswegen erkennt er Erkrankte mit hoher Viruslast noch besser, also hoch ansteckende Personen. Diese können sofort in Quarantäne gehen, ohne andere anzustecken.
 Unser Badge ist so kein Freibrief, alle sonstigen Corona-Regeln zu missachten.
 Es motiviert aber zum regelmäßigen Testen und kann so Ausbreitungen frühzeitig verhindern. Damit stärkt es neben dem Sicherheitsgefühl auch die tatsächliche Sicherheit.
 
