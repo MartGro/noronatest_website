@@ -1,7 +1,7 @@
 ---
 header_brand: "Norona"
 teaser_image: "images/norona-logo.png"
-header_tagline_paragraph: "Wir machen Corona-Tests sichtbar! &#128065;"
+header_tagline_paragraph: "Wir machen Corona-Tests sichtbar!"
 header_button_cta:
   url: "#kontaktformular"
   title: "Kontakt"
@@ -10,10 +10,18 @@ header_button_more:
   title: "Die Idee"
 ---
 
-# Unser Produkt - Das Norona-Badge 🏅
+# Unser Produkt - Das Norona-Badge
 
-{{<figure id='prototype' src="images/norona-badge-photo-lowres.png" class="shadow-2xl bg-gray-light">}}
+{{<figure id='prototype' src="images/norona-badge-photo-abmessungen-lowres.png" class="shadow-2xl bg-gray-dark">}}
 
+{{<iconizedtextcontainer>}}
+{{<iconizedtext users>}}
+Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
+{{</iconizedtext>}}
+{{<iconizedtext users>}}
+Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
+{{</iconizedtext>}}
+{{</iconizedtextcontainer>}}
 Wie gefällt es Ihnen? Schicken Sie uns Ihr [Feedback](#kontaktformular)!
 
 
@@ -104,9 +112,14 @@ Ein Bruch der Quarantänebestimmungen führt in der Regel auch zu strafrechtlich
 This is our contact information:
 Das sind unsere Kontaktdaten:
 
-E-mail: contact@noronatest.me
+Korbinian Pöppel
+Rohrbacher Str. 5
+85296 Rohrbach
+Deutschland
+
+E-mail: kontakt[at]noronatest.me
 
 Wir nehmen den Schutz Ihrer Daten sehr ernst, wir speichern nichts was wir nicht essentiell benötigen. Wir haben keine Tracking-Dienste aktiviert, verwenden keine Cookies oder ähnliches.
-Falls Sie uns Ihre Kontakt-Daten schiken werden diese bei unserem Hosting-Partner netcup.de gespeichert. Sie können uns jederzeit kontaktieren, falls Sie Ihre Daten bei uns löschen wollen oder eine Auskunft über Ihre Daten bei uns anfordern wollen.
+Falls Sie uns Ihre Kontaktdaten schiken werden diese bei unseren Partnern netcup.de und formspree.io gespeichert. Sie können uns jederzeit kontaktieren, falls Sie Ihre Daten bei uns löschen wollen oder eine Auskunft über Ihre Daten bei uns anfordern wollen.
 
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form this information will be stored on netcup.de, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form this information will be stored on netcup.de and formspree.io, services we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
