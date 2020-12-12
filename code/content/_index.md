@@ -43,7 +43,7 @@ Bei Schnelltests erhält man das Ergebnis nach 15 Minuten. So kann man sich bei 
 Damit diese Tests das Virus aufhalten können, müssen sie aber regelmäßig und flächendeckend angewandt werden. Idealerweise wird man sich in Zukunft selbst testen können.
 {{</iconizedtext>}}
 {{<iconizedtext briefcase>}}
-Besonders in Behörden, Schulen und Unternehmen können Schnelltests ein bestehendes Hygienekonzept aufwerten und einer größere Ansteckungswelle vermeiden.
+Besonders in Behörden, Schulen und Unternehmen können Schnelltests ein bestehendes Hygienekonzept aufwerten und eine größere Ansteckungswelle vermeiden.
 {{</iconizedtext>}}
 {{<iconizedtext crosshair>}}
 Wenn man die Ausbreitung des Virus schnell erkennt, können Maßnahmen besser abgestimmt werden.
@@ -81,7 +81,7 @@ Bei breiter Anwendung sind Schnelltests eine gute Möglichkeit, die Infektionsza
 
 #### Gibt es die Norona-Badges auch in einem anderen Design?
 
-Wir können unser Design gerne auch an Ihre Wünsche anpassen, zum Beispiel mit der Integration eines Firmenlogos. Dabei ist es wichtig, dass ein Widererkennungswert als Norona-Badge bleibt.
+Wir können unser Design gerne auch an Ihre Wünsche anpassen, zum Beispiel mit der Integration eines Firmenlogos. Dabei ist es wichtig, dass ein Wiedererkennungswert als Norona-Badge bleibt.
 
 #### Ich will in meinem Betrieb / meiner Behörde auch Corona-Schnelltests durchführen. Wie kann ich weiter vorgehen?
 
