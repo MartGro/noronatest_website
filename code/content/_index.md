@@ -62,10 +62,10 @@ Das Norona-Badge macht einen durchgeführten Antigen-Test sichtbar. Es kann nach
 Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch einen Zeitindikator auch ein eingebautes "Ablaufdatum".
 {{</iconizedtext>}}
 {{<iconizedtext repeat>}}
-Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken, der mit der Zeit den weißen Hintergrund verdrängt. So weiß man, wann man sich erneut testen lassen muss.
+Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken, der mit der Zeit den weißen Hintergrund verdrängt. So weiß man, wann man sich erneut testen oder testen lassen muss.
 {{</iconizedtext>}}
 {{<iconizedtext mask>}}
-Schnelltests sind eine gute Möglichkeit, die Infektionszahlen zu verringern. Trotzdem ist es wichtig, Tests in Kombination mit der AHA-Regel anzuwenden: Abstand halten, Hygiene beachten, Alltagsmaske tragen.
+Bei breiter Anwendung sind Schnelltests eine gute Möglichkeit, die Infektionszahlen zu verringern. Trotzdem ist es wichtig, Tests in Kombination mit der AHA-Regel anzuwenden: Abstand halten, Hygiene beachten, Alltagsmaske tragen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 
