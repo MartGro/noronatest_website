@@ -16,7 +16,7 @@ header_button_more:
 
 {{<iconizedtextcontainer>}}
 {{<iconizedtext user-check>}}
-Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Die Dauer seit dem Test durch einen Zeitindikator sichtbar, mit zunehmender Warnfarbe bis zu sieben Tagen.
+Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Die Dauer seit dem Test ist durch einen Zeitindikator sichtbar, mit zunehmender Warnfarbe bis zu sieben Tagen.
 {{</iconizedtext>}}
 {{<iconizedtext users>}}
 Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
