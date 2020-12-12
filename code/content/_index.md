@@ -16,7 +16,7 @@ header_button_more:
 
 {{<iconizedtextcontainer>}}
 {{<iconizedtext user-check>}}
-Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Es läuft in sieben Tagen nach der Aktivierung ab.
+Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Die Dauer seit dem Test durch einen Zeitindikator sichtbar, mit zunehmender Warnfarbe bis zu sieben Tagen.
 {{</iconizedtext>}}
 {{<iconizedtext users>}}
 Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild, auf einem Messeausweis oder auch als Armband.
@@ -58,9 +58,6 @@ Wenn man die Ausbreitung des Virus schnell erkennt, können Maßnahmen besser ab
 {{<iconizedtext eye>}}
 Das Norona-Badge macht einen durchgeführten Antigen-Test sichtbar. Es kann nach diesem offen als Nachweis getragen werden.
 {{</iconizedtext>}}
-{{<iconizedtext shield>}}
-Es ist wichtig, früh zu wissen, dass man ansteckend ist. So kann man nahestehende Personen warnen und Kontakt vermeiden.
-{{</iconizedtext>}}
 {{<iconizedtext clock>}}
 Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch einen Zeitindikator auch ein eingebautes "Ablaufdatum".
 {{</iconizedtext>}}
@@ -68,7 +65,7 @@ Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durc
 Die Zeit seit dem Test ist gut sichtbar durch einen roten Balken, der mit der Zeit den weißen Hintergrund verdrängt. So weiß man, wann man sich erneut testen lassen muss.
 {{</iconizedtext>}}
 {{<iconizedtext mask>}}
-Schnelltests sind eine gute Möglichkeit, die Infektionen zu verringern. Sie sind aber nur eine Maßnahme neben anderen. Deswegen ist es wichtig, Tests in Kombination mit der AHA-Regel anzuwenden: Abstand halten, Hygiene beachten, Alltagsmaske tragen.
+Schnelltests sind eine gute Möglichkeit, die Infektionszahlen zu verringern. Trotzdem ist es wichtig, Tests in Kombination mit der AHA-Regel anzuwenden: Abstand halten, Hygiene beachten, Alltagsmaske tragen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 
@@ -122,7 +119,7 @@ This is our contact information:
 Das sind unsere Kontaktdaten:
 
 Korbinian Pöppel
-Rohrbacher Str. 5
+Rohrbacher Str. 5a
 85296 Rohrbach
 Deutschland
 
