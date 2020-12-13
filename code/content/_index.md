@@ -71,6 +71,11 @@ Bei breiter Anwendung sind Schnelltests eine gute Möglichkeit, die Infektionsza
 
 ---
 
+# Anwendungsskizze
+{{<figure id='erklaerung' src="images/ErklaerungNoronaTest.png" class="w-full content-center">}}
+
+---
+
 # Kontaktformular
 
 {{< contact_formspree id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
