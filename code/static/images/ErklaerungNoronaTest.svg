@@ -32,7 +32,7 @@
      inkscape:cx="53.81396"
      inkscape:cy="152.81655"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1592"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
@@ -145,7 +145,7 @@
     <g
        id="g1592"
        style="stroke-width:4.625;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.26536297,0,0,0.26536297,77.136887,109.53063)"
+       transform="matrix(0.26536297,0,0,0.26536297,76.93349,109.53063)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
       <g
@@ -280,7 +280,7 @@
     <g
        id="g1613"
        style="stroke-width:4.625;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.26536297,0,0,0.26536297,76.869617,113.82356)"
+       transform="matrix(0.26536297,0,0,0.26536297,77.4237,113.82356)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
       <g
@@ -387,7 +387,7 @@
        inkscape:connector-curvature="0"
        id="path856-7-6"
        d="M 108.61709,130.54437 105,134.61929 l -3.6171,-4.07492"
-       style="fill:none;stroke:#000000;stroke-width:1.23;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.23000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
@@ -395,7 +395,7 @@
        inkscape:connector-curvature="0"
        id="path856-7-6-5"
        d="M 108.61709,162.47336 105,166.54828 l -3.6171,-4.07492"
-       style="fill:none;stroke:#000000;stroke-width:1.23;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.23000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
   </g>
