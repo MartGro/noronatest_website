@@ -19,7 +19,7 @@ header_button_more:
 Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Die Dauer seit dem Test ist durch einen Zeitindikator sichtbar, mit zunehmender Warnfarbe bis zu sieben Tagen.
 {{</iconizedtext>}}
 {{<iconizedtext users>}}
-Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild oder in Kombination mit einem Dienst- oder Messeausweis.
+Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild oder in Kombination mit einem Dienst- oder Messeausweis. 
 {{</iconizedtext>}}
 {{<iconizedtext share-2>}}
 Gemeinsam gegen das Virus: Wer sich selbst testen lässt, kann dadurch andere schützen.
@@ -46,7 +46,7 @@ Damit diese Tests das Virus aufhalten können, müssen sie aber regelmäßig und
 Besonders in Behörden, Schulen und Unternehmen können Schnelltests ein bestehendes Hygienekonzept aufwerten und eine größere Ansteckungswelle vermeiden.
 {{</iconizedtext>}}
 {{<iconizedtext crosshair>}}
-Wenn man die Ausbreitung des Virus schnell erkennt, können Maßnahmen besser abgestimmt werden.
+Wenn man die Ausbreitung des Virus schnell erkennt, können Maßnahmen besser abgestimmt werden. Da es sich um ein Einwegprodukt handelt ist ein fälschliches Zurücksetzen ausgeschlossen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 
