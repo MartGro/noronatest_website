@@ -72,7 +72,9 @@ Bei breiter Anwendung sind Schnelltests eine gute Möglichkeit, die Infektionsza
 ---
 
 # Anwendungsskizze
-{{<figure id='erklaerung' src="images/ErklaerungNoronaTest.png" class="w-full content-center">}}
+
+
+{{<figure id='erklaerung' src="images/ErklaerungNoronaTest2.png" class="w-full content-center">}}
 
 ---
 
@@ -108,12 +110,11 @@ Da unser Geschäft gerade im Aufbau ist, müssen Sie mit einer Lieferzeit von 3-
 
 #### Was bei einem positiven Test?
 
-Bei den meisten Corona-Schnelltests bedeutet ein positives Ergebnis auch eine tatsächliche Infektion. Dies bedeutet für die/den Betroffene/n in der Regel eine Quarantänepflicht. Wir verweisen hier auf die geltende Gesetzgebung, empfehlen aber nachdrücklich die umgehende, vollständige Quarantäne bis zu einem negativen PCR-Test. Das Badge darf in Falle eines positiven Tests also nicht getragen werden!
+Bei den meisten Corona-Schnelltests bedeutet ein positives Ergebnis auch eine tatsächliche Infektion. Dies bedeutet für die/den Betroffene/n in der Regel eine Quarantänepflicht. Wir verweisen hier auf die geltende Gesetzgebung, empfehlen aber nachdrücklich die umgehende, vollständige Quarantäne bis zu einem negativen PCR-Test. Das Badge darf im Falle eines positiven Tests also nicht getragen werden!
 
 ### Missbrauch des Norona-Badges
 
-Auch wenn ein Norona-Badge im Falle eines positiven Tests nicht getragen werden sollte, ist ein solches Fehlverhalten nicht ohne weiteres zu verhindern. Der Missbrauch und die damit einhergehende Gefährdung der Umgebung liegt aber in der
-Verantwortung der getesteten Person.
+Auch wenn ein Norona-Badge im Falle eines positiven Tests nicht getragen werden sollte, ist ein solches Fehlverhalten nicht ohne weiteres zu verhindern. Der Missbrauch und die damit einhergehende Gefährdung der Umgebung liegt aber in der Verantwortung der getesteten Person.
 Ein Bruch der Quarantänebestimmungen führt in der Regel auch zu strafrechtlichen Konsequenzen.
 
 ---
