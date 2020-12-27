@@ -74,7 +74,7 @@ Bei breiter Anwendung sind Schnelltests eine gute Möglichkeit, die Infektionsza
 # Anwendungsskizze
 
 
-{{<figure id='erklaerung' src="images/ErklaerungNoronaTest2.png" class="w-full content-center">}}
+{{<figure id='erklaerung' src="images/ErklaerungNoronaTest3.png" class="w-full content-center">}}
 
 ---
 
