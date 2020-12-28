@@ -56,7 +56,7 @@ Wenn man die Ausbreitung des Virus schnell erkennt, können Maßnahmen besser ab
 
 {{<iconizedtextcontainer>}}
 {{<iconizedtext eye>}}
-Das Norona-Badge macht einen durchgeführten Antigen-Test sichtbar. Es kann nach diesem offen als Nachweis getragen werden.
+Das Norona-Badge macht einen durchgeführten Corona-Schnelltest sichtbar. Es kann nach diesem offen als Nachweis getragen werden.
 {{</iconizedtext>}}
 {{<iconizedtext clock>}}
 Da die Tests mit der Zeit Ihre Aussagekraft verlieren, hat das Norona-Badge durch einen Zeitindikator auch ein eingebautes "Ablaufdatum".
@@ -106,13 +106,13 @@ Es motiviert aber zum regelmäßigen Testen und kann so Ausbreitungen frühzeiti
 
 #### Wie schnell kann ich Norona-Badges bekommen?
 
-Da unser Geschäft gerade im Aufbau ist, müssen Sie mit einer Lieferzeit von 3-4 Wochen rechnen, bei großen Stückzahlen auch mehr. Allerdings freuen wir uns auf Ihre Anfrage und können durch Ihr Feedback den Prozess wohl zukünftig auch beschleunigen.
+Momentan sind wir in kleiner Stückzahl innerhalb eines Tages lieferfähig. Bei größeren Stückzahlen müssen Sie mit einer Lieferzeit von 2-3 Wochen rechnen. Wir freuen uns auf Ihre Anfrage und können durch Ihr Feedback den Prozess wohl zukünftig auch beschleunigen.
 
 #### Was bei einem positiven Test?
 
 Bei den meisten Corona-Schnelltests bedeutet ein positives Ergebnis auch eine tatsächliche Infektion. Dies bedeutet für die/den Betroffene/n in der Regel eine Quarantänepflicht. Wir verweisen hier auf die geltende Gesetzgebung, empfehlen aber nachdrücklich die umgehende, vollständige Quarantäne bis zu einem negativen PCR-Test. Das Badge darf im Falle eines positiven Tests also nicht getragen werden!
 
-### Missbrauch des Norona-Badges
+#### Missbrauch des Norona-Badges
 
 Auch wenn ein Norona-Badge im Falle eines positiven Tests nicht getragen werden sollte, ist ein solches Fehlverhalten nicht ohne weiteres zu verhindern. Der Missbrauch und die damit einhergehende Gefährdung der Umgebung liegt aber in der Verantwortung der getesteten Person.
 Ein Bruch der Quarantänebestimmungen führt in der Regel auch zu strafrechtlichen Konsequenzen.
