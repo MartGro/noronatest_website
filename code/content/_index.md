@@ -19,7 +19,7 @@ header_button_more:
 Das Norona-Badge ist ein Abzeichen, mit dem man zeigen kann, dass man negativ getestet wurde. Die Dauer seit dem Test ist durch einen Zeitindikator sichtbar, mit zunehmender Warnfarbe bis zu sieben Tagen.
 {{</iconizedtext>}}
 {{<iconizedtext users>}}
-Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild oder in Kombination mit einem Dienst- oder Messeausweis.
+Die Idee ist es, das Badge an einer gut sichtbaren Stelle zu tragen: Wie ein Namensschild oder in Kombination mit einem Dienst- oder Messeausweis. 
 {{</iconizedtext>}}
 {{<iconizedtext share-2>}}
 Gemeinsam gegen das Virus: Wer sich selbst testen lässt, kann dadurch andere schützen.
@@ -43,10 +43,10 @@ Bei Schnelltests erhält man das Ergebnis nach 15 Minuten. So kann man sich bei 
 Damit diese Tests das Virus aufhalten können, müssen sie aber regelmäßig und flächendeckend angewandt werden. Idealerweise wird man sich in Zukunft selbst testen können.
 {{</iconizedtext>}}
 {{<iconizedtext briefcase>}}
-Besonders in Behörden, Schulen und Unternehmen können Schnelltests ein bestehendes Hygienekonzept aufwerten und einer größere Ansteckungswelle vermeiden.
+Besonders in Behörden, Schulen und Unternehmen können Schnelltests ein bestehendes Hygienekonzept aufwerten und eine größere Ansteckungswelle vermeiden.
 {{</iconizedtext>}}
 {{<iconizedtext crosshair>}}
-Wenn man die Ausbreitung des Virus schnell erkennt, können Maßnahmen besser abgestimmt werden.
+Wenn man die Ausbreitung des Virus schnell erkennt, können Maßnahmen besser abgestimmt werden. Da es sich um ein Einwegprodukt handelt ist ein fälschliches Zurücksetzen ausgeschlossen.
 {{</iconizedtext>}}
 {{</iconizedtextcontainer>}}
 
@@ -88,7 +88,7 @@ Bei breiter Anwendung sind Schnelltests eine gute Möglichkeit, die Infektionsza
 
 #### Gibt es die Norona-Badges auch in einem anderen Design?
 
-Wir können unser Design gerne auch an Ihre Wünsche anpassen, zum Beispiel mit der Integration eines Firmenlogos. Dabei ist es wichtig, dass ein Widererkennungswert als Norona-Badge bleibt.
+Wir können unser Design gerne auch an Ihre Wünsche anpassen, zum Beispiel mit der Integration eines Firmenlogos. Dabei ist es wichtig, dass ein Wiedererkennungswert als Norona-Badge bleibt.
 
 #### Ich will in meinem Betrieb / meiner Behörde auch Corona-Schnelltests durchführen. Wie kann ich weiter vorgehen?
 
