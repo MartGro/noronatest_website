@@ -7,6 +7,11 @@ To install/test do the following:
 git submodule init code/themes/hugo-product-launch
 ```
 
+1.5 Pull submodules
+```
+git submodule update --recursive --remote
+```
+
 2. Install node modules
 ```
 cd code
